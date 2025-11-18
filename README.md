@@ -78,4 +78,4 @@ const user = {
 };
 
 getValue(user, "name"); // valid
-getValue(user, "email"); //  error — কারণ email User টাইপে নেই
+getValue(user, "email"); //  error —   কারণ email User টাইপে নেই
